@@ -22,7 +22,7 @@ to have PyTorch properly installed before installing Moshi.
 ```bash
 pip install -U moshi      # moshi PyTorch, from PyPI
 # Or the bleeding edge versions for Moshi
-pip install -U -e "git+https://git@github.com/kyutai-labs/moshi#egg=moshi&subdirectory=moshi"
+pip install -U -e "git+https://git@github.com/jspaulsen/moshi#egg=moshi&subdirectory=moshi"
 ```
 
 While we hope that the present codebase will work on Windows, we do not provide official support for it.
